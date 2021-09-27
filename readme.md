@@ -48,5 +48,10 @@ https://app.datadoghq.com/ci/test-runs?index=citest&start=1632627253983&end=1632
 Working example output:
 ![image](/test.png)
 
+## Test location
+```
+test_capitalize.py 
+```
+
 ## Documentation
-https://docs.datadoghq.com/continuous_integration/setup_tests/javascript/?tab=jest 
+https://docs.datadoghq.com/continuous_integration/setup_tests/python/
